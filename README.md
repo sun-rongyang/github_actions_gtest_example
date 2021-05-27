@@ -1,6 +1,6 @@
 # General
-![github_actions_gtest_example-Release](https://github.com/bastianhjaeger/github_actions_gtest_example/workflows/github_actions_gtest_example-Release/badge.svg?branch=master)
-![github_actions_gtest_example-Debug](https://github.com/bastianhjaeger/github_actions_gtest_example/workflows/github_actions_gtest_example-Debug/badge.svg?branch=master)
+![github_actions_gtest_example-Release](https://github.com/sun-rongyang/github_actions_gtest_example/workflows/github_actions_gtest_example-Release/badge.svg?branch=master)
+![github_actions_gtest_example-Debug](https://github.com/sun-rongyang/github_actions_gtest_example/workflows/github_actions_gtest_example-Debug/badge.svg?branch=master)
 
 Example on how to integrate gtest test into [github actions](https://github.com/features/actions). 
 
